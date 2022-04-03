@@ -1,0 +1,44 @@
+.avatar{
+    width: 35px;
+    height: 35px;
+    margin-top: 3px;
+}
+.image{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.email{
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    padding: 5px 0 10px;
+}
+.main{
+    display: flex;
+}
+.nav{
+    width: 17%;
+    height: 100vh;
+    background-color: #f8f9fa;
+    border-right: 1px solid #e7e8e9;
+}
+.menuList{
+    list-style: none;
+    margin-top: 20px;
+}
+.menu{
+    text-decoration: none;
+    color: rgba(26,26,26,.75);
+    transition: color 0.3s ease;
+}
+.menu:hover{
+    color: #f68930;
+}
+.content{
+    width: 83%;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}

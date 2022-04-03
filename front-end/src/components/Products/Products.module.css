@@ -1,0 +1,45 @@
+.main{
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.category{
+    color: white;
+    padding: 5px;
+    background-color: rgb(246, 137, 48);
+    width: max-content;
+    border-radius: 10px;
+}
+.products{
+    display: flex;
+    flex-wrap: wrap;
+}
+.image{
+    width: 83%;
+    height: 180px;
+    margin-top: 5px;
+}
+.image:hover{
+    width: 85%;
+    height: 190px;
+    margin-top: 0;
+}
+.cartTitle{
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s ease;
+}
+.cartTitle:hover{
+    color: #f68930;
+}
+.buttonCart{
+    background-color: white;
+    border: none;
+    color: yellowgreen;
+    font-size: 20px;
+    transition: color 0.3s ease;
+    margin-left: 150px;
+}
+.buttonCart:hover{
+    background-color: white;
+    color: #f68930;
+}

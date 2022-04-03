@@ -1,0 +1,16 @@
+.footer{
+    height: 250px;
+    box-shadow: 0 0px 14px 2px #e2e2e2;
+}
+.content{
+    width: 65%;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.info{
+    width: 35%;
+    height: 100%;
+    padding-top: 20px;
+}

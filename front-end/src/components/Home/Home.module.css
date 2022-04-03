@@ -1,0 +1,17 @@
+.main{
+    margin-top: 50px;
+}
+.products{
+    width: 85%;
+    margin: auto;
+}
+.btnTop{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    z-index: 99;
+    visibility: hidden;
+}
+.btnVisible{
+    visibility: visible;
+}

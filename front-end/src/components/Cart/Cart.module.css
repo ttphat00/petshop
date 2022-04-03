@@ -1,0 +1,14 @@
+.main{
+    margin-top: 50px;
+}
+.cart{
+    width: 85%;
+    margin: auto;
+}
+.total{
+    width: 350px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}

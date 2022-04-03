@@ -1,0 +1,38 @@
+.main{
+    width: 80%;
+    margin: auto;
+}
+.title{
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s ease;
+}
+.title:hover{
+    color: #f68930;
+}
+.detail{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+.image{
+    width: 25%;
+}
+.content{
+    width: 45%;
+}
+.productName{
+    color: #f68930;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #ebebeb;
+}
+.cost{
+    color: #f68930;
+    font-size: 35px;
+}
+.contact{
+    width: 25%;
+    padding: 10px;
+    border: 1px solid #e2e2e2;
+    height: 150px;
+}

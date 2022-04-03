@@ -1,0 +1,17 @@
+.avatar{
+    width: 100px;
+    height: 100px;
+    margin: 20px auto 0;
+}
+.info{
+    width: 70%;
+    margin: 50px auto 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 30%;
+}
